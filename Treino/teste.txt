@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Post 1</title>
+</head>
+<body>
+    <h1>Meu Primeiro Post</h1>
+    <button id="meuBotao">Clique aqui</button>
+<div id="resultado"></div>
+    <p>Conteúdo do meu primeiro post.</p>
+    <a href="index.html">Página Inicial</a>
+    
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Post 2</title>
+</head>
+<body>
+    <h1>Meu Segundo Post</h1>
+    <p>Conteúdo do meu segundo post.</p>
+    <a href="index.html">Página Inicial</a>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Post 3</title>
+</head>
+<body>
+    <h1>Meu Terceiro Post</h1>
+    <p>Conteúdo do meu terceiro post.</p>
+    <a href="index.html">Página Inicial</a>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contato</title>
+</head>
+<body>
+    <h1>Entre em Contato</h1>
+    <p>Entre em contato conosco através do email: contato@meublog.com</p>
+    <a href="index.html">Página Inicial</a>
+</body>
+</html>
+
+
+

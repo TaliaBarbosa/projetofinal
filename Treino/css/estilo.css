@@ -1,0 +1,204 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+body{
+   /* background-color:#8B0000;*/
+   background-image: url("../img/vermelho.jpg");
+   background-size: cover;
+   position:absolute;
+
+   
+}
+
+    
+   /* background: url(./img/pipoca.jpeg) ;
+    background-size: 100vh;
+    height: 70vh;
+    width: 300%;
+    background-repeat:no-repeat;
+    filter: brightness(130%);*/
+    
+
+.inicial h1{
+    margin-left: 50vh;
+    margin-top: 5vh;
+    font-size: 5vh;
+    letter-spacing: 20px;
+    text-shadow: 9px 6px 13px rgba(0,0,0,0.6);
+    color: white;
+
+
+}
+.inicial a{
+    margin-top: 8vh;
+    padding: 2vh;
+    text-decoration: none;
+    margin-left: 20vh;
+    font-size: 3vh;
+    letter-spacing: 7px;
+    display: inline-block;
+    color: #fff;
+    background-color: #B22222;
+    border:solid .3vh #fff ;
+    border-radius: 8vh;
+}
+.inicial a:hover{
+    transform: scale(1.2);
+
+}
+.conteudo1 ul{
+    display: flex;
+
+}
+
+.conteudo1 ul li img{
+    margin-top: 10vh;
+    border:solid .10vh #fff;
+    width: 57vh;
+    height: 50vh;
+    margin-left: 5vh;
+    
+}
+.texto01 h1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 2.5vh;
+    margin-left: 3vh;
+    padding: 3vh;
+    width: 100vh;
+    margin-top: 12vh;
+    color: white;
+    text-shadow: 9px 6px 13px rgba(0,0,0,0.91);
+}
+.card ul{
+    display: flex;
+    flex-direction: column;
+}
+.card ul li img{
+    margin-top: 10vh;
+    border:solid .10vh #fff;
+    width: 50vh;
+    height: 45vh;
+    margin-left: 3vh;
+}   
+.card article{
+  
+   position:absolute;
+    margin-left: 55vh;
+    margin-top: -40vh;
+    width: 100vh;
+    height: 30vh;
+    background-color: #B22222;
+    padding: 30px 30px;
+    color: white;
+    font-size: 2vh;
+    border-radius: 2vh;
+    text-shadow: 9px 6px 13px rgba(0,0,0,0.91);
+    border:solid .3vh #fff ;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.ranking{
+
+}
+
+.rodape{
+display: flex;
+margin-top: 10vh;
+border:solid .10vh #fff;
+width: 5vh;
+height: 5vh;
+margin-left: 85vh;
+
+}
+
+.rodape ul{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.rodape ul li img{
+    width: 10vh;
+    padding: 30px 30px;
+}
+
+footer{ 
+    height: 10vh;
+    width: 192.8vh;
+    background-color: white;
+}
+
+.rodape h1{
+    position: absolute;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 30vh;
+    font-size: 20px;
+    margin-top: 3vh;
+    margin-left: -20vh;
+    letter-spacing: 4px;
+}
+
+#Novocard ul{
+display: flex;
+}
+#Novocard ul li img{
+    margin-top: 10vh;
+     border:solid .10vh #fff;
+    width: 50vh;
+    height: 50vh;
+    margin-left: 3vh;
+
+
+}
+
+#botao01, #botao02, #botao03  {
+    width: 50vh;
+    height: 5vh;
+    background-color: #B22222;
+    margin-top: 61vh;
+    margin-left: -50vh;
+}
+#Novocard1 article{
+    background-color:#B22222;
+    color: #fff;
+    padding: 20px 20px;
+    margin-top: 10vh;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow: 9px 6px 13px rgba(0,0,0,0.91);
+    font-size: 3vh;
+    
+}
+#Novocard1 h1{
+    margin-top: 3vh;
+    margin-left: 2vh;
+    color:#fff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow: 9px 6px 13px rgba(0,0,0,0.91);
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
